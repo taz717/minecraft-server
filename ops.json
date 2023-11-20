@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "4723d7b4-5c75-4917-948e-122c00bb0be0",
+    "name": "DangDoggit",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ec3e823f-e57e-43ce-bb0d-5d4e4215d1d9",
+    "name": "Taztooz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f4ccdbee-4f59-4e15-9d8c-1728dd811802",
+    "name": "Mod",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "22ee848e-fbee-454d-9fe0-6f4e137f3223",
+    "name": "Manatee_Calamity",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
